@@ -1,2 +1,2 @@
-# Test
-Test file for R code
+# SQL 
+Use of SQL in Spark: demonstrate data cleaning and merging
